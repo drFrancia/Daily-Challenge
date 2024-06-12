@@ -1,2 +1,2 @@
-# Daily-Challenge-1
+# Daily-Challenge
 Este es el repositorio de los challenges diarios
